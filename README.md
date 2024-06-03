@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0169-majority-element) |
 | [0380-insert-delete-getrandom-o1](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0383-ransom-note](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0383-ransom-note) |
 # Divide and Conquer
 |  |
 | ------- |
@@ -82,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0274-h-index](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0274-h-index) |
+| [0383-ransom-note](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0383-ransom-note) |
 # Design
 |  |
 | ------- |
@@ -112,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0125-valid-palindrome) |
+| [0383-ransom-note](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0392-is-subsequence) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/GauravB09/LeetCode-Submissions/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Binary Search
