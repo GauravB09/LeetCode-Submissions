@@ -1,14 +1,11 @@
 class Solution:
     def canConstruct(self, ransomNote: str, magazine: str) -> bool:
-        dict_a = {}
+        arr = [0 for i in range(26)]
         for i in magazine:
-            if i not in dict_a:
-                dict_a[i] = 0
-            dict_a[i] += 1
+            arr[ord(i)-ord('a')] += 1
         for i in ransomNote:
-            if i not in dict_a:
-                return False
-            dict_a[i] -= 1
-            if dict_a[i] < 0:
+            val = ord(i)-ord('a')
+            arr[val] -= 1
+            if arr[val] < 0:
                 return False
         return True
