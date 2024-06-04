@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0013-roman-to-integer](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0205-isomorphic-strings) |
 | [0380-insert-delete-getrandom-o1](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0409-longest-palindrome) |
@@ -119,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0409-longest-palindrome) |
