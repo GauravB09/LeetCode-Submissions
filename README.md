@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0151-reverse-words-in-a-string](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0392-is-subsequence) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/GauravB09/LeetCode-Submissions/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Sorting
@@ -62,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0030-substring-with-concatenation-of-all-words](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0290-word-pattern) |
@@ -84,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0013-roman-to-integer](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0202-happy-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0380-insert-delete-getrandom-o1) |
 # Dynamic Programming
 |  |
