@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0523-continuous-subarray-sum](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0876-hand-of-straights) |
 | [1044-find-common-characters](https://github.com/GauravB09/LeetCode-Submissions/tree/master/1044-find-common-characters) |
@@ -75,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0380-insert-delete-getrandom-o1](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0409-longest-palindrome) |
+| [0523-continuous-subarray-sum](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0876-hand-of-straights) |
 | [1044-find-common-characters](https://github.com/GauravB09/LeetCode-Submissions/tree/master/1044-find-common-characters) |
@@ -93,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0202-happy-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0523-continuous-subarray-sum](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0523-continuous-subarray-sum) |
 # Dynamic Programming
 |  |
 | ------- |
@@ -131,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0238-product-of-array-except-self) |
+| [0523-continuous-subarray-sum](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0523-continuous-subarray-sum) |
 # String
 |  |
 | ------- |
