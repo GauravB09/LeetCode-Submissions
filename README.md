@@ -91,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0202-happy-number) |
