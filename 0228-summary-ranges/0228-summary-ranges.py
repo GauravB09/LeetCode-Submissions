@@ -11,7 +11,7 @@ class Solution:
                 else:
                     res.append(str(start))
                 start = nums[i+1]
-        print(res)
+        # print(res)
         return res
 
             
