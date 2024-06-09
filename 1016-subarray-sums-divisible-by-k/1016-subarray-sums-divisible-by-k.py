@@ -1,11 +1,10 @@
 class Solution:
     def subarraysDivByK(self, nums: List[int], k: int) -> int:
-        n = len(nums)
         dic = {}
         curr_sum = 0
         count = 0
-        for i in range(n):
-            curr_sum = (curr_sum + nums[i])%k
+        for num in nums:
+            curr_sum = (curr_sum + num)%k
             if curr_sum == 0:
                 count += 1
             if curr_sum in dic:
