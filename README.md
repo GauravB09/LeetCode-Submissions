@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0128-longest-consecutive-sequence](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0135-candy) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0189-rotate-array) |
@@ -111,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0009-palindrome-number](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0066-plus-one) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0202-happy-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0380-insert-delete-getrandom-o1) |
@@ -211,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0020-valid-parentheses](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0071-simplify-path) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0150-evaluate-reverse-polish-notation) |
 # Matrix
 |  |
 | ------- |
