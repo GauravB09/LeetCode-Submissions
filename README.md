@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0228-summary-ranges](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0274-h-index) |
+| [0330-patching-array](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0330-patching-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0502-ipo](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0502-ipo) |
 | [0523-continuous-subarray-sum](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0523-continuous-subarray-sum) |
@@ -147,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0135-candy) |
+| [0330-patching-array](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0330-patching-array) |
 | [0409-longest-palindrome](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0409-longest-palindrome) |
 | [0502-ipo](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0502-ipo) |
 | [0876-hand-of-straights](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0876-hand-of-straights) |
