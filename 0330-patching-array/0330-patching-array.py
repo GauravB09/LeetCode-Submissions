@@ -9,6 +9,6 @@ class Solution:
                 miss += nums[index]
                 index += 1
             else:
-                miss *= 2
+                miss += miss
                 result += 1
         return result
