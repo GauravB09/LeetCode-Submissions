@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0392-is-subsequence) |
+| [0633-sum-of-square-numbers](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0633-sum-of-square-numbers) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/GauravB09/LeetCode-Submissions/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Sorting
 |  |
@@ -131,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0202-happy-number](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0202-happy-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0523-continuous-subarray-sum](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0523-continuous-subarray-sum) |
+| [0633-sum-of-square-numbers](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0633-sum-of-square-numbers) |
 # Dynamic Programming
 |  |
 | ------- |
@@ -219,6 +221,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0209-minimum-size-subarray-sum) |
+| [0633-sum-of-square-numbers](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0633-sum-of-square-numbers) |
 # Sliding Window
 |  |
 | ------- |
