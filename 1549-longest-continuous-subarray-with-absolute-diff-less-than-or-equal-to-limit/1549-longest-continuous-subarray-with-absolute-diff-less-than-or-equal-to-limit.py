@@ -1,28 +1,30 @@
+from collections import deque
+
 class Solution:
     def longestSubarray(self, nums: List[int], limit: int) -> int:
-        max_heap = []
-        min_heap = []
+        max_queue = deque()  # store maximum values
+        min_queue = deque()  # store minimum values
 
         left = 0
-        max_length = 0
 
-        for right in range(len(nums)):
-            heapq.heappush(max_heap, (-nums[right], right))
-            heapq.heappush(min_heap, (nums[right], right))
+        for n in nums:
+            # Maintain the max_queue in decreasing order of elements
+            while max_queue and n > max_queue[-1]:
+                max_queue.pop()
+            max_queue.append(n)
 
-            # Check if the absolute difference between the maximum and minimum values in the current window exceeds the limit
-            while -max_heap[0][0] - min_heap[0][0] > limit:
-                # Move the left pointer to the right until the condition is satisfied.
-                # This ensures we remove the element causing the violation
-                left = min(max_heap[0][1], min_heap[0][1]) + 1
+            # Maintain the min_queue in increasing order of elements
+            while min_queue and n < min_queue[-1]:
+                min_queue.pop()
+            min_queue.append(n)
 
-                # Remove elements from the heaps that are outside the current window
-                while max_heap[0][1] < left:
-                    heapq.heappop(max_heap)
-                while min_heap[0][1] < left:
-                    heapq.heappop(min_heap)
-
-            # Update max_length with the length of the current valid window
-            max_length = max(max_length, right - left + 1)
-
-        return max_length
+            # If the absolute difference between the maximum and minimum elements
+            # in the current window exceeds the limit, remove one element
+            # from either or both queues and increment the left pointer
+            if max_queue[0] - min_queue[0] > limit:
+                if max_queue[0] == nums[left]:
+                    max_queue.popleft()
+                if min_queue[0] == nums[left]:
+                    min_queue.popleft()
+                left += 1
+        return len(nums) - left
