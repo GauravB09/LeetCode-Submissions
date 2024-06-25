@@ -282,6 +282,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0226-invert-binary-tree) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/GauravB09/LeetCode-Submissions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 # Depth-First Search
 |  |
 | ------- |
@@ -290,6 +291,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0226-invert-binary-tree) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/GauravB09/LeetCode-Submissions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 # Breadth-First Search
 |  |
 | ------- |
@@ -306,6 +308,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0226-invert-binary-tree) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/GauravB09/LeetCode-Submissions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 # Linked List
 |  |
 | ------- |
@@ -345,3 +348,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/GauravB09/LeetCode-Submissions/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+# Binary Search Tree
+|  |
+| ------- |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/GauravB09/LeetCode-Submissions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
