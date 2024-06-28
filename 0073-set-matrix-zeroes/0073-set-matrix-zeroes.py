@@ -6,16 +6,25 @@ class Solution(object):
         """
         num_rows = len(matrix)
         num_cols = len(matrix[0])
-        rows_set = set()
-        cols_set = set()
+        first_row_has_zero = False
+        first_col_has_zero = False
         for row in range(num_rows):
             for col in range(num_cols):
                 if matrix[row][col] == 0:
-                    rows_set.add(row)
-                    cols_set.add(col)
-        for row in range(num_rows):
+                    if row == 0:
+                        first_row_has_zero = True
+                    if col == 0:
+                        first_col_has_zero = True
+                    matrix[row][0] = matrix[0][col] = 0
+        # print(matrix)
+        # print(first_col_has_zero, first_row_has_zero)
+        for row in range(1,num_rows):
+            for col in range(1,num_cols):
+                matrix[row][col] = 0 if matrix[row][0] == 0 or matrix[0][col] == 0 else matrix[row][col]
+        # print(matrix)   
+        if first_row_has_zero:
             for col in range(num_cols):
-                if row in rows_set:
-                    matrix[row][col] = 0
-                elif col in cols_set:
-                    matrix[row][col] = 0
+                matrix[0][col] = 0
+        if first_col_has_zero:
+            for row in range(num_rows):
+                matrix[row][0] = 0
