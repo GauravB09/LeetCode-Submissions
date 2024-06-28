@@ -366,3 +366,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1916-find-center-of-star-graph](https://github.com/GauravB09/LeetCode-Submissions/tree/master/1916-find-center-of-star-graph) |
 | [2379-maximum-total-importance-of-roads](https://github.com/GauravB09/LeetCode-Submissions/tree/master/2379-maximum-total-importance-of-roads) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0073-set-matrix-zeroes) |
+## Hash Table
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0073-set-matrix-zeroes) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0073-set-matrix-zeroes) |
+<!---LeetCode Topics End-->
