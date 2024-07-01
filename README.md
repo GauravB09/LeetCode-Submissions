@@ -373,6 +373,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0048-rotate-image](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0073-set-matrix-zeroes) |
+| [0289-game-of-life](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0289-game-of-life) |
 | [1293-three-consecutive-odds](https://github.com/GauravB09/LeetCode-Submissions/tree/master/1293-three-consecutive-odds) |
 ## Hash Table
 |  |
@@ -383,6 +384,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0048-rotate-image](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0073-set-matrix-zeroes) |
+| [0289-game-of-life](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0289-game-of-life) |
 ## Math
 |  |
 | ------- |
@@ -408,4 +410,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/GauravB09/LeetCode-Submissions/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
+## Simulation
+|  |
+| ------- |
+| [0289-game-of-life](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0289-game-of-life) |
 <!---LeetCode Topics End-->
