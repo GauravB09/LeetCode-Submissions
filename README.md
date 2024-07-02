@@ -374,11 +374,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0073-set-matrix-zeroes) |
 | [0289-game-of-life](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0289-game-of-life) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1293-three-consecutive-odds](https://github.com/GauravB09/LeetCode-Submissions/tree/master/1293-three-consecutive-odds) |
 ## Hash Table
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0073-set-matrix-zeroes) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -414,4 +416,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0289-game-of-life](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0289-game-of-life) |
+## Two Pointers
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
+## Sorting
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 <!---LeetCode Topics End-->
