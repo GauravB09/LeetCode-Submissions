@@ -391,6 +391,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0048-rotate-image) |
+| [0069-sqrtx](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0172-factorial-trailing-zeroes) |
 ## Depth-First Search
 |  |
@@ -424,6 +425,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0069-sqrtx) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sorting
 |  |
