@@ -419,6 +419,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0289-game-of-life](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0289-game-of-life) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/GauravB09/LeetCode-Submissions/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Two Pointers
 |  |
 | ------- |
@@ -437,4 +438,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/GauravB09/LeetCode-Submissions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+## Linked List
+|  |
+| ------- |
+| [2299-merge-nodes-in-between-zeros](https://github.com/GauravB09/LeetCode-Submissions/tree/master/2299-merge-nodes-in-between-zeros) |
 <!---LeetCode Topics End-->
