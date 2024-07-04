@@ -397,6 +397,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [0129-sum-root-to-leaf-numbers](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/GauravB09/LeetCode-Submissions/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Breadth-First Search
 |  |
@@ -442,4 +443,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2299-merge-nodes-in-between-zeros](https://github.com/GauravB09/LeetCode-Submissions/tree/master/2299-merge-nodes-in-between-zeros) |
+## Tree
+|  |
+| ------- |
+| [0129-sum-root-to-leaf-numbers](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0129-sum-root-to-leaf-numbers) |
+## Binary Tree
+|  |
+| ------- |
+| [0129-sum-root-to-leaf-numbers](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0129-sum-root-to-leaf-numbers) |
 <!---LeetCode Topics End-->
