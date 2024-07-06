@@ -394,6 +394,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0172-factorial-trailing-zeroes) |
+| [2645-pass-the-pillow](https://github.com/GauravB09/LeetCode-Submissions/tree/master/2645-pass-the-pillow) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -421,6 +422,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0289-game-of-life](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0289-game-of-life) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/GauravB09/LeetCode-Submissions/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2645-pass-the-pillow](https://github.com/GauravB09/LeetCode-Submissions/tree/master/2645-pass-the-pillow) |
 ## Two Pointers
 |  |
 | ------- |
