@@ -377,6 +377,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1293-three-consecutive-odds](https://github.com/GauravB09/LeetCode-Submissions/tree/master/1293-three-consecutive-odds) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/GauravB09/LeetCode-Submissions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/GauravB09/LeetCode-Submissions/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -395,6 +396,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0069-sqrtx](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0172-factorial-trailing-zeroes) |
 | [1642-water-bottles](https://github.com/GauravB09/LeetCode-Submissions/tree/master/1642-water-bottles) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/GauravB09/LeetCode-Submissions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/GauravB09/LeetCode-Submissions/tree/master/2645-pass-the-pillow) |
 ## Depth-First Search
 |  |
@@ -423,6 +425,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0289-game-of-life](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0289-game-of-life) |
 | [1642-water-bottles](https://github.com/GauravB09/LeetCode-Submissions/tree/master/1642-water-bottles) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/GauravB09/LeetCode-Submissions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/GauravB09/LeetCode-Submissions/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2645-pass-the-pillow](https://github.com/GauravB09/LeetCode-Submissions/tree/master/2645-pass-the-pillow) |
 ## Two Pointers
@@ -456,4 +459,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0129-sum-root-to-leaf-numbers) |
+## Recursion
+|  |
+| ------- |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/GauravB09/LeetCode-Submissions/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Queue
+|  |
+| ------- |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/GauravB09/LeetCode-Submissions/tree/master/1951-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
