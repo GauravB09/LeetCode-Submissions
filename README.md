@@ -380,6 +380,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1720-crawler-log-folder](https://github.com/GauravB09/LeetCode-Submissions/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/GauravB09/LeetCode-Submissions/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/GauravB09/LeetCode-Submissions/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/GauravB09/LeetCode-Submissions/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2846-robot-collisions](https://github.com/GauravB09/LeetCode-Submissions/tree/master/2846-robot-collisions) |
 ## Hash Table
 |  |
@@ -387,6 +388,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0073-set-matrix-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0726-number-of-atoms) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/GauravB09/LeetCode-Submissions/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Matrix
 |  |
 | ------- |
@@ -464,10 +466,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0129-sum-root-to-leaf-numbers) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/GauravB09/LeetCode-Submissions/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Binary Tree
 |  |
 | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0129-sum-root-to-leaf-numbers) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/GauravB09/LeetCode-Submissions/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Recursion
 |  |
 | ------- |
