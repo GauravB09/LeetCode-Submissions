@@ -377,6 +377,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1207-delete-nodes-and-return-forest](https://github.com/GauravB09/LeetCode-Submissions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1293-three-consecutive-odds](https://github.com/GauravB09/LeetCode-Submissions/tree/master/1293-three-consecutive-odds) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/GauravB09/LeetCode-Submissions/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/GauravB09/LeetCode-Submissions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1720-crawler-log-folder](https://github.com/GauravB09/LeetCode-Submissions/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/GauravB09/LeetCode-Submissions/tree/master/1803-average-waiting-time) |
@@ -397,6 +398,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0073-set-matrix-zeroes) |
 | [0289-game-of-life](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0289-game-of-life) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/GauravB09/LeetCode-Submissions/tree/master/1496-lucky-numbers-in-a-matrix) |
 ## Math
 |  |
 | ------- |
