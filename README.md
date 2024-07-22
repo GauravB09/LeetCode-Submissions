@@ -384,6 +384,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1803-average-waiting-time](https://github.com/GauravB09/LeetCode-Submissions/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/GauravB09/LeetCode-Submissions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/GauravB09/LeetCode-Submissions/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2502-sort-the-people](https://github.com/GauravB09/LeetCode-Submissions/tree/master/2502-sort-the-people) |
 | [2846-robot-collisions](https://github.com/GauravB09/LeetCode-Submissions/tree/master/2846-robot-collisions) |
 ## Hash Table
 |  |
@@ -393,6 +394,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0726-number-of-atoms](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0726-number-of-atoms) |
 | [1207-delete-nodes-and-return-forest](https://github.com/GauravB09/LeetCode-Submissions/tree/master/1207-delete-nodes-and-return-forest) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/GauravB09/LeetCode-Submissions/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2502-sort-the-people](https://github.com/GauravB09/LeetCode-Submissions/tree/master/2502-sort-the-people) |
 ## Matrix
 |  |
 | ------- |
@@ -460,6 +462,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0726-number-of-atoms) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/GauravB09/LeetCode-Submissions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [2502-sort-the-people](https://github.com/GauravB09/LeetCode-Submissions/tree/master/2502-sort-the-people) |
 | [2846-robot-collisions](https://github.com/GauravB09/LeetCode-Submissions/tree/master/2846-robot-collisions) |
 ## Greedy
 |  |
@@ -504,6 +507,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1720-crawler-log-folder](https://github.com/GauravB09/LeetCode-Submissions/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/GauravB09/LeetCode-Submissions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/GauravB09/LeetCode-Submissions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2502-sort-the-people](https://github.com/GauravB09/LeetCode-Submissions/tree/master/2502-sort-the-people) |
 ## Stack
 |  |
 | ------- |
