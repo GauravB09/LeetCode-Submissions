@@ -1,4 +1,3 @@
-import heapq
 class Solution:
     def merge(self, arr1: List[int], arr2: List[int], n1: int, n2: int) -> List[int]:
         ans = [0 for _ in range(n1 + n2)]
