@@ -426,6 +426,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0172-factorial-trailing-zeroes) |
+| [0273-integer-to-english-words](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0273-integer-to-english-words) |
 | [1642-water-bottles](https://github.com/GauravB09/LeetCode-Submissions/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/GauravB09/LeetCode-Submissions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/GauravB09/LeetCode-Submissions/tree/master/2645-pass-the-pillow) |
@@ -524,6 +525,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 |  |
 | ------- |
+| [0273-integer-to-english-words](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0273-integer-to-english-words) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/GauravB09/LeetCode-Submissions/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
 |  |
@@ -532,6 +534,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0273-integer-to-english-words](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0273-integer-to-english-words) |
 | [0726-number-of-atoms](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/GauravB09/LeetCode-Submissions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/GauravB09/LeetCode-Submissions/tree/master/1720-crawler-log-folder) |
