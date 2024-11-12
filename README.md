@@ -574,6 +574,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0155-min-stack) |
 | [0726-number-of-atoms](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/GauravB09/LeetCode-Submissions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/GauravB09/LeetCode-Submissions/tree/master/1720-crawler-log-folder) |
@@ -634,6 +635,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0155-min-stack) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
