@@ -414,6 +414,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0127-word-ladder) |
+| [0146-lru-cache](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0146-lru-cache) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0726-number-of-atoms) |
 | [0870-magic-squares-in-grid](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0870-magic-squares-in-grid) |
@@ -537,6 +538,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0146-lru-cache) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/GauravB09/LeetCode-Submissions/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/GauravB09/LeetCode-Submissions/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Tree
@@ -654,6 +656,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0155-min-stack) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
@@ -669,4 +672,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1585-the-kth-factor-of-n](https://github.com/GauravB09/LeetCode-Submissions/tree/master/1585-the-kth-factor-of-n) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
