@@ -375,6 +375,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0004-median-of-two-sorted-arrays](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0048-rotate-image](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0073-set-matrix-zeroes) |
+| [0198-house-robber](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0200-number-of-islands) |
 | [0283-move-zeroes](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0283-move-zeroes) |
 | [0289-game-of-life](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0289-game-of-life) |
@@ -653,6 +654,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0022-generate-parentheses](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0062-unique-paths) |
+| [0198-house-robber](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0198-house-robber) |
 | [1196-filling-bookcase-shelves](https://github.com/GauravB09/LeetCode-Submissions/tree/master/1196-filling-bookcase-shelves) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/GauravB09/LeetCode-Submissions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/GauravB09/LeetCode-Submissions/tree/master/1511-count-number-of-teams) |
