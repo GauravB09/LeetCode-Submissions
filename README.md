@@ -550,6 +550,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0023-merge-k-sorted-lists) |
 | [0146-lru-cache](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0146-lru-cache) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/GauravB09/LeetCode-Submissions/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/GauravB09/LeetCode-Submissions/tree/master/2299-merge-nodes-in-between-zeros) |
@@ -619,16 +620,19 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0023-merge-k-sorted-lists) |
 | [0948-sort-an-array](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0023-merge-k-sorted-lists) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0948-sort-an-array) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/GauravB09/LeetCode-Submissions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0023-merge-k-sorted-lists) |
 | [0948-sort-an-array](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0948-sort-an-array) |
 ## Bucket Sort
 |  |
