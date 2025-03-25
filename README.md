@@ -448,6 +448,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0007-reverse-integer](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0172-factorial-trailing-zeroes) |
 | [0273-integer-to-english-words](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0273-integer-to-english-words) |
@@ -643,6 +644,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0062-unique-paths) |
 | [1196-filling-bookcase-shelves](https://github.com/GauravB09/LeetCode-Submissions/tree/master/1196-filling-bookcase-shelves) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/GauravB09/LeetCode-Submissions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/GauravB09/LeetCode-Submissions/tree/master/1511-count-number-of-teams) |
@@ -687,4 +689,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0146-lru-cache) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
