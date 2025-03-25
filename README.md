@@ -586,6 +586,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0022-generate-parentheses) |
 | [0127-word-ladder](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0151-reverse-words-in-a-string) |
 | [0273-integer-to-english-words](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0273-integer-to-english-words) |
@@ -646,6 +647,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0062-unique-paths) |
 | [1196-filling-bookcase-shelves](https://github.com/GauravB09/LeetCode-Submissions/tree/master/1196-filling-bookcase-shelves) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/GauravB09/LeetCode-Submissions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -699,4 +701,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
