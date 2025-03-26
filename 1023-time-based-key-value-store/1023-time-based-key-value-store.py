@@ -21,16 +21,9 @@ class TimeMap:
         self.time_map = defaultdict(list)
 
     def set(self, key: str, value: str, timestamp: int) -> None:
-        curr_key_list = self.time_map[key]
-        if curr_key_list == []:
-            self.time_map[key] = [[0, ""], [timestamp, value]]
-        else:
-            correct_index = self.binarySearch(curr_key_list, timestamp)
-            if curr_key_list[correct_index][0] == timestamp:
-                curr_key_list[correct_index][1] = value
-            else:
-                curr_key_list.insert(correct_index+1, [timestamp, value])
-            self.time_map[key] = curr_key_list
+        if key not in self.time_map:
+            self.time_map[key] = [[0, ""]]
+        self.time_map[key].append([timestamp, value])
 
     def get(self, key: str, timestamp: int) -> str:
         if key not in self.time_map:
