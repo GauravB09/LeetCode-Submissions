@@ -412,6 +412,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2727-number-of-senior-citizens](https://github.com/GauravB09/LeetCode-Submissions/tree/master/2727-number-of-senior-citizens) |
 | [2846-robot-collisions](https://github.com/GauravB09/LeetCode-Submissions/tree/master/2846-robot-collisions) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/GauravB09/LeetCode-Submissions/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/GauravB09/LeetCode-Submissions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -433,6 +434,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/GauravB09/LeetCode-Submissions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2502-sort-the-people](https://github.com/GauravB09/LeetCode-Submissions/tree/master/2502-sort-the-people) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/GauravB09/LeetCode-Submissions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/GauravB09/LeetCode-Submissions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Matrix
 |  |
 | ------- |
