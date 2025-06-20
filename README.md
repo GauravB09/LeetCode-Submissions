@@ -373,6 +373,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0011-container-with-most-water) |
 | [0048-rotate-image](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0073-set-matrix-zeroes) |
 | [0198-house-robber](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0198-house-robber) |
@@ -514,6 +515,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0011-container-with-most-water) |
 | [0151-reverse-words-in-a-string](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0345-reverse-vowels-of-a-string) |
@@ -547,6 +549,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0011-container-with-most-water) |
 | [0605-can-place-flowers](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0605-can-place-flowers) |
 | [0624-maximum-distance-in-arrays](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0890-lemonade-change) |
