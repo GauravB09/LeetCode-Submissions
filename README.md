@@ -381,6 +381,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0239-sliding-window-maximum](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0283-move-zeroes) |
 | [0289-game-of-life](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0289-game-of-life) |
+| [0347-top-k-frequent-elements](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0605-can-place-flowers](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0605-can-place-flowers) |
 | [0624-maximum-distance-in-arrays](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0624-maximum-distance-in-arrays) |
@@ -424,6 +425,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0127-word-ladder) |
 | [0146-lru-cache](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0146-lru-cache) |
+| [0347-top-k-frequent-elements](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0726-number-of-atoms) |
 | [0870-magic-squares-in-grid](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0870-magic-squares-in-grid) |
@@ -537,6 +539,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0726-number-of-atoms) |
 | [0948-sort-an-array](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0948-sort-an-array) |
@@ -640,12 +643,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0023-merge-k-sorted-lists) |
+| [0347-top-k-frequent-elements](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0347-top-k-frequent-elements) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0948-sort-an-array) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/GauravB09/LeetCode-Submissions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -657,6 +662,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0948-sort-an-array) |
 ## Radix Sort
 |  |
@@ -665,6 +671,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0948-sort-an-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/GauravB09/LeetCode-Submissions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/GauravB09/LeetCode-Submissions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -741,4 +748,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0239-sliding-window-maximum) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
