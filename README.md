@@ -471,6 +471,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0098-validate-binary-search-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0145-binary-tree-postorder-traversal](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0200-number-of-islands) |
 | [1207-delete-nodes-and-return-forest](https://github.com/GauravB09/LeetCode-Submissions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/GauravB09/LeetCode-Submissions/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -570,6 +571,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0098-validate-binary-search-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0145-binary-tree-postorder-traversal](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1207-delete-nodes-and-return-forest](https://github.com/GauravB09/LeetCode-Submissions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/GauravB09/LeetCode-Submissions/tree/master/1653-number-of-good-leaf-nodes-pairs) |
@@ -580,6 +582,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0098-validate-binary-search-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0145-binary-tree-postorder-traversal](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1207-delete-nodes-and-return-forest](https://github.com/GauravB09/LeetCode-Submissions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/GauravB09/LeetCode-Submissions/tree/master/1653-number-of-good-leaf-nodes-pairs) |
@@ -622,6 +625,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0155-min-stack) |
 | [0726-number-of-atoms](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/GauravB09/LeetCode-Submissions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
