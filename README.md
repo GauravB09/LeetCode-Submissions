@@ -378,6 +378,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0073-set-matrix-zeroes) |
 | [0198-house-robber](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0200-number-of-islands) |
+| [0239-sliding-window-maximum](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0283-move-zeroes) |
 | [0289-game-of-life](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0289-game-of-life) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -592,6 +593,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0239-sliding-window-maximum) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/GauravB09/LeetCode-Submissions/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## String
 |  |
@@ -637,6 +639,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0023-merge-k-sorted-lists) |
+| [0239-sliding-window-maximum](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0239-sliding-window-maximum) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0948-sort-an-array) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/GauravB09/LeetCode-Submissions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -681,6 +684,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0239-sliding-window-maximum) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/GauravB09/LeetCode-Submissions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 ## Strongly Connected Component
 |  |
@@ -727,4 +731,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1656-count-good-triplets](https://github.com/GauravB09/LeetCode-Submissions/tree/master/1656-count-good-triplets) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
