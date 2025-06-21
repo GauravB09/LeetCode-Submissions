@@ -417,6 +417,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2846-robot-collisions](https://github.com/GauravB09/LeetCode-Submissions/tree/master/2846-robot-collisions) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/GauravB09/LeetCode-Submissions/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/GauravB09/LeetCode-Submissions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3647-zero-array-transformation-iii](https://github.com/GauravB09/LeetCode-Submissions/tree/master/3647-zero-array-transformation-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -552,6 +553,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2502-sort-the-people](https://github.com/GauravB09/LeetCode-Submissions/tree/master/2502-sort-the-people) |
 | [2846-robot-collisions](https://github.com/GauravB09/LeetCode-Submissions/tree/master/2846-robot-collisions) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/GauravB09/LeetCode-Submissions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3647-zero-array-transformation-iii](https://github.com/GauravB09/LeetCode-Submissions/tree/master/3647-zero-array-transformation-iii) |
 ## Greedy
 |  |
 | ------- |
@@ -563,6 +565,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/GauravB09/LeetCode-Submissions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/GauravB09/LeetCode-Submissions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/GauravB09/LeetCode-Submissions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3647-zero-array-transformation-iii](https://github.com/GauravB09/LeetCode-Submissions/tree/master/3647-zero-array-transformation-iii) |
 ## Linked List
 |  |
 | ------- |
@@ -654,6 +657,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0789-kth-largest-element-in-a-stream](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0948-sort-an-array) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/GauravB09/LeetCode-Submissions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [3647-zero-array-transformation-iii](https://github.com/GauravB09/LeetCode-Submissions/tree/master/3647-zero-array-transformation-iii) |
 ## Merge Sort
 |  |
 | ------- |
@@ -752,4 +756,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0347-top-k-frequent-elements) |
+## Prefix Sum
+|  |
+| ------- |
+| [3647-zero-array-transformation-iii](https://github.com/GauravB09/LeetCode-Submissions/tree/master/3647-zero-array-transformation-iii) |
 <!---LeetCode Topics End-->
