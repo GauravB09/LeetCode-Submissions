@@ -522,6 +522,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0793-swap-adjacent-in-lr-string](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0793-swap-adjacent-in-lr-string) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/GauravB09/LeetCode-Submissions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1894-merge-strings-alternately](https://github.com/GauravB09/LeetCode-Submissions/tree/master/1894-merge-strings-alternately) |
 ## Binary Search
@@ -608,6 +609,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0273-integer-to-english-words](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0273-integer-to-english-words) |
 | [0345-reverse-vowels-of-a-string](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0726-number-of-atoms](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0726-number-of-atoms) |
+| [0793-swap-adjacent-in-lr-string](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0793-swap-adjacent-in-lr-string) |
 | [1023-time-based-key-value-store](https://github.com/GauravB09/LeetCode-Submissions/tree/master/1023-time-based-key-value-store) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/GauravB09/LeetCode-Submissions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/GauravB09/LeetCode-Submissions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
