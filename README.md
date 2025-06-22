@@ -599,6 +599,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0273-integer-to-english-words) |
+| [0394-decode-string](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0394-decode-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/GauravB09/LeetCode-Submissions/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
 |  |
@@ -614,6 +615,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0151-reverse-words-in-a-string](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0151-reverse-words-in-a-string) |
 | [0273-integer-to-english-words](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0273-integer-to-english-words) |
 | [0345-reverse-vowels-of-a-string](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0394-decode-string](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0394-decode-string) |
 | [0726-number-of-atoms](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0726-number-of-atoms) |
 | [0793-swap-adjacent-in-lr-string](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0793-swap-adjacent-in-lr-string) |
 | [1023-time-based-key-value-store](https://github.com/GauravB09/LeetCode-Submissions/tree/master/1023-time-based-key-value-store) |
@@ -635,6 +637,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0155-min-stack) |
+| [0394-decode-string](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0394-decode-string) |
 | [0726-number-of-atoms](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/GauravB09/LeetCode-Submissions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/GauravB09/LeetCode-Submissions/tree/master/1720-crawler-log-folder) |
