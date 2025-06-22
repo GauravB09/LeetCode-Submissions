@@ -385,6 +385,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0605-can-place-flowers](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0605-can-place-flowers) |
 | [0624-maximum-distance-in-arrays](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0624-maximum-distance-in-arrays) |
+| [0827-expressive-words](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0827-expressive-words) |
 | [0870-magic-squares-in-grid](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0890-lemonade-change) |
 | [0921-spiral-matrix-iii](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0921-spiral-matrix-iii) |
@@ -526,6 +527,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0345-reverse-vowels-of-a-string](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0793-swap-adjacent-in-lr-string](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0793-swap-adjacent-in-lr-string) |
+| [0827-expressive-words](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0827-expressive-words) |
 | [0961-long-pressed-name](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0961-long-pressed-name) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/GauravB09/LeetCode-Submissions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1894-merge-strings-alternately](https://github.com/GauravB09/LeetCode-Submissions/tree/master/1894-merge-strings-alternately) |
@@ -619,6 +621,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0394-decode-string](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0394-decode-string) |
 | [0726-number-of-atoms](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0726-number-of-atoms) |
 | [0793-swap-adjacent-in-lr-string](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0793-swap-adjacent-in-lr-string) |
+| [0827-expressive-words](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0827-expressive-words) |
 | [0961-long-pressed-name](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0961-long-pressed-name) |
 | [1023-time-based-key-value-store](https://github.com/GauravB09/LeetCode-Submissions/tree/master/1023-time-based-key-value-store) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/GauravB09/LeetCode-Submissions/tree/master/1146-greatest-common-divisor-of-strings) |
