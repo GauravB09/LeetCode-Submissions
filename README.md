@@ -381,6 +381,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0239-sliding-window-maximum](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0283-move-zeroes) |
 | [0289-game-of-life](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0289-game-of-life) |
+| [0322-coin-change](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0605-can-place-flowers](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0605-can-place-flowers) |
@@ -488,6 +489,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0127-word-ladder](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0127-word-ladder) |
 | [0200-number-of-islands](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0200-number-of-islands) |
+| [0322-coin-change](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0322-coin-change) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/GauravB09/LeetCode-Submissions/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/GauravB09/LeetCode-Submissions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 ## Graph
@@ -697,6 +699,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0062-unique-paths](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0062-unique-paths) |
 | [0096-unique-binary-search-trees](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0096-unique-binary-search-trees) |
 | [0198-house-robber](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0322-coin-change) |
 | [1196-filling-bookcase-shelves](https://github.com/GauravB09/LeetCode-Submissions/tree/master/1196-filling-bookcase-shelves) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/GauravB09/LeetCode-Submissions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/GauravB09/LeetCode-Submissions/tree/master/1511-count-number-of-teams) |
