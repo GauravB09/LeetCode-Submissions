@@ -376,6 +376,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0011-container-with-most-water) |
 | [0048-rotate-image](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0073-set-matrix-zeroes) |
+| [0120-triangle](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0239-sliding-window-maximum) |
@@ -698,6 +699,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0062-unique-paths) |
 | [0096-unique-binary-search-trees](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0096-unique-binary-search-trees) |
+| [0120-triangle](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0322-coin-change) |
 | [1196-filling-bookcase-shelves](https://github.com/GauravB09/LeetCode-Submissions/tree/master/1196-filling-bookcase-shelves) |
