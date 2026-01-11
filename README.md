@@ -415,6 +415,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2306-create-binary-tree-from-descriptions](https://github.com/GauravB09/LeetCode-Submissions/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2472-build-a-matrix-with-conditions](https://github.com/GauravB09/LeetCode-Submissions/tree/master/2472-build-a-matrix-with-conditions) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/GauravB09/LeetCode-Submissions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/GauravB09/LeetCode-Submissions/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2502-sort-the-people](https://github.com/GauravB09/LeetCode-Submissions/tree/master/2502-sort-the-people) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/GauravB09/LeetCode-Submissions/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2727-number-of-senior-citizens](https://github.com/GauravB09/LeetCode-Submissions/tree/master/2727-number-of-senior-citizens) |
@@ -459,6 +460,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/GauravB09/LeetCode-Submissions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/GauravB09/LeetCode-Submissions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2472-build-a-matrix-with-conditions](https://github.com/GauravB09/LeetCode-Submissions/tree/master/2472-build-a-matrix-with-conditions) |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/GauravB09/LeetCode-Submissions/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 ## Math
 |  |
 | ------- |
@@ -522,6 +524,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1803-average-waiting-time](https://github.com/GauravB09/LeetCode-Submissions/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/GauravB09/LeetCode-Submissions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/GauravB09/LeetCode-Submissions/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/GauravB09/LeetCode-Submissions/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2645-pass-the-pillow](https://github.com/GauravB09/LeetCode-Submissions/tree/master/2645-pass-the-pillow) |
 | [2846-robot-collisions](https://github.com/GauravB09/LeetCode-Submissions/tree/master/2846-robot-collisions) |
 ## Two Pointers
