@@ -394,6 +394,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0948-sort-an-array](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0948-sort-an-array) |
 | [1196-filling-bookcase-shelves](https://github.com/GauravB09/LeetCode-Submissions/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/GauravB09/LeetCode-Submissions/tree/master/1207-delete-nodes-and-return-forest) |
+| [1266-minimum-time-visiting-all-points](https://github.com/GauravB09/LeetCode-Submissions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1293-three-consecutive-odds](https://github.com/GauravB09/LeetCode-Submissions/tree/master/1293-three-consecutive-odds) |
 | [1333-sort-the-jumbled-numbers](https://github.com/GauravB09/LeetCode-Submissions/tree/master/1333-sort-the-jumbled-numbers) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/GauravB09/LeetCode-Submissions/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -473,6 +474,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0273-integer-to-english-words](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0273-integer-to-english-words) |
 | [0870-magic-squares-in-grid](https://github.com/GauravB09/LeetCode-Submissions/tree/master/0870-magic-squares-in-grid) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/GauravB09/LeetCode-Submissions/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1266-minimum-time-visiting-all-points](https://github.com/GauravB09/LeetCode-Submissions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1585-the-kth-factor-of-n](https://github.com/GauravB09/LeetCode-Submissions/tree/master/1585-the-kth-factor-of-n) |
 | [1642-water-bottles](https://github.com/GauravB09/LeetCode-Submissions/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/GauravB09/LeetCode-Submissions/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -786,4 +788,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3647-zero-array-transformation-iii](https://github.com/GauravB09/LeetCode-Submissions/tree/master/3647-zero-array-transformation-iii) |
+## Geometry
+|  |
+| ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/GauravB09/LeetCode-Submissions/tree/master/1266-minimum-time-visiting-all-points) |
 <!---LeetCode Topics End-->
